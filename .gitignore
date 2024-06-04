@@ -1,1 +1,5 @@
- .DS_Store
+/img
+*.png
+*.jpg
+*.jpeg
+*.webp
